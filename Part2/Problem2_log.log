@@ -1,0 +1,56 @@
+2018-02-16 21:20:28,743 - INFO - Directories cleanup complete.
+2018-02-16 21:21:19,663 - DEBUG - Using access key provided by client.
+2018-02-16 21:21:19,663 - DEBUG - Using secret key provided by client.
+2018-02-16 21:21:19,663 - INFO - Initializing zip download.
+2018-02-16 21:21:19,795 - WARNING - Log og 20080101.zip not found...Skipping ahead!
+2018-02-16 21:21:19,931 - WARNING - Log og 20080201.zip not found...Skipping ahead!
+2018-02-16 21:21:20,127 - WARNING - Log og 20080301.zip not found...Skipping ahead!
+2018-02-16 21:21:20,253 - WARNING - Log og 20080401.zip not found...Skipping ahead!
+2018-02-16 21:21:20,377 - WARNING - Log og 20080501.zip not found...Skipping ahead!
+2018-02-16 21:21:20,507 - WARNING - Log og 20080601.zip not found...Skipping ahead!
+2018-02-16 21:21:20,630 - WARNING - Log og 20080701.zip not found...Skipping ahead!
+2018-02-16 21:21:20,763 - WARNING - Log og 20080801.zip not found...Skipping ahead!
+2018-02-16 21:21:20,874 - WARNING - Log og 20080901.zip not found...Skipping ahead!
+2018-02-16 21:21:21,041 - WARNING - Log og 20081001.zip not found...Skipping ahead!
+2018-02-16 21:21:21,166 - WARNING - Log og 20081101.zip not found...Skipping ahead!
+2018-02-16 21:21:21,269 - WARNING - Log og 20081201.zip not found...Skipping ahead!
+2018-02-16 21:21:21,270 - INFO - All log files downloaded for  2008
+2018-02-16 21:21:21,274 - INFO - Zip files successfully extracted to folder: downloaded_zips_unzipped.
+2018-02-16 21:21:21,276 - INFO - All the csv read into individual dataframes
+2018-02-16 21:21:21,276 - INFO - Rows removed where ip, date, time, cik or accession were null.
+2018-02-16 21:21:21,277 - INFO - NaN values in browser replaced with maximum count browser.
+2018-02-16 21:21:21,279 - INFO - NaN values in idx replaced with maximum count idx.
+2018-02-16 21:21:21,280 - INFO - NaN values in code replaced with maximum count code.
+2018-02-16 21:21:21,281 - INFO - NaN values in norefer replaced with 0.
+2018-02-16 21:21:21,286 - INFO - NaN values in noagent replaced with 0.
+2018-02-16 21:21:21,287 - INFO - NaN values in find replaced with maximum count find.
+2018-02-16 21:21:21,288 - INFO - NaN values in crawler replaced with 0.
+2018-02-16 21:21:21,290 - INFO - NaN values in extension replaced with maximum count extension.
+2018-02-16 21:21:21,291 - INFO - NaN values in zone replaced with maximum count zone.
+2018-02-16 21:21:21,292 - INFO - NaN values in size replaced with mean value of size.
+2018-02-16 21:21:21,294 - INFO - New column added to dataframe: Mean of size.
+2018-02-16 21:21:21,299 - INFO - New column added to dataframe: Max count of browser.
+2018-02-16 21:21:21,300 - INFO - New column added to dataframe: Count of distinct ip per month.
+2018-02-16 21:21:21,300 - INFO - New column added to dataframe: Count of distinct cik per month.
+2018-02-16 21:21:21,304 - ERROR - No objects to concatenate
+2018-02-16 21:22:30,996 - INFO - Directories cleanup complete.
+2018-02-16 21:23:08,819 - WARNING - Access Key and Secret Access Key not provided!!
+2018-02-16 21:23:14,558 - INFO - Directories cleanup complete.
+2018-02-16 21:24:23,132 - DEBUG - Using access key provided by client.
+2018-02-16 21:24:23,133 - DEBUG - Using secret key provided by client.
+2018-02-16 21:24:23,134 - INFO - Initializing zip download.
+2018-02-16 21:24:28,525 - INFO - Log file log20120101.zip successfully downloaded
+2018-02-16 21:24:35,952 - INFO - Log file log20120201.zip successfully downloaded
+2018-02-16 21:24:40,441 - INFO - Log file log20120301.zip successfully downloaded
+2018-02-16 21:24:44,673 - INFO - Log file log20120401.zip successfully downloaded
+2018-02-16 21:24:52,743 - INFO - Log file log20120501.zip successfully downloaded
+2018-02-16 21:24:59,402 - INFO - Log file log20120601.zip successfully downloaded
+2018-02-16 21:25:05,494 - INFO - Log file log20120701.zip successfully downloaded
+2018-02-16 21:25:14,592 - INFO - Log file log20120801.zip successfully downloaded
+2018-02-16 21:25:20,786 - INFO - Log file log20120901.zip successfully downloaded
+2018-02-16 21:25:29,450 - INFO - Log file log20121001.zip successfully downloaded
+2018-02-16 21:25:42,301 - INFO - Log file log20121101.zip successfully downloaded
+2018-02-16 21:25:54,133 - INFO - Log file log20121201.zip successfully downloaded
+2018-02-16 21:25:54,133 - INFO - All log files downloaded for 2012
+2018-02-16 21:26:37,900 - INFO - Zip files successfully extracted to folder: downloaded_zips_unzipped.
+2018-02-16 21:26:58,314 - ERROR - 
