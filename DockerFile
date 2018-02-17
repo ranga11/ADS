@@ -1,0 +1,3 @@
+FROM Python:3
+ADD assignment_1Part1.py /
+CMD [ "python", ".assignment_1Part1.py" ]
