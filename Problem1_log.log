@@ -1,0 +1,59 @@
+2018-02-16 20:13:57,560 - INFO - URL for the 10-q file for CIK = 0000051143 and Accession_no = 000005114313000007 is created
+2018-02-16 20:15:33,692 - DEBUG - Using access key provided by client.
+2018-02-16 20:15:33,692 - DEBUG - Using secret key provided by client.
+2018-02-16 20:15:36,940 - INFO - Tables successfully extracted to csv
+2018-02-16 20:15:36,985 - INFO - csv and log file zipped
+2018-02-16 20:15:36,985 - DEBUG - path=/
+2018-02-16 20:15:36,986 - DEBUG - auth_path=/akiajvpaswpjjkv4wyxq20180216201536985343/
+2018-02-16 20:15:36,986 - DEBUG - Method: PUT
+2018-02-16 20:15:36,987 - DEBUG - Path: /
+2018-02-16 20:15:36,987 - DEBUG - Data: <CreateBucketConfiguration><LocationConstraint>us-west-2</LocationConstraint></CreateBucketConfiguration>
+2018-02-16 20:15:36,987 - DEBUG - Headers: {}
+2018-02-16 20:15:36,988 - DEBUG - Host: akiajvpaswpjjkv4wyxq20180216201536985343.s3.amazonaws.com:443
+2018-02-16 20:15:36,988 - DEBUG - Port: 443
+2018-02-16 20:15:36,988 - DEBUG - Params: {}
+2018-02-16 20:15:36,988 - DEBUG - establishing HTTPS connection: host=akiajvpaswpjjkv4wyxq20180216201536985343.s3.amazonaws.com, kwargs={'timeout': 70, 'port': 443}
+2018-02-16 20:15:36,992 - DEBUG - Token: None
+2018-02-16 20:15:36,993 - DEBUG - StringToSign:
+PUT
+
+
+Sat, 17 Feb 2018 01:15:36 GMT
+/akiajvpaswpjjkv4wyxq20180216201536985343/
+2018-02-16 20:15:36,993 - DEBUG - Signature:
+AWS AKIAJVPASWPJJKV4WYXQ:/9ZCF9KTZDsaPfqvmng0zsycr6w=
+2018-02-16 20:15:36,994 - DEBUG - Final headers: {'User-Agent': 'Boto/2.48.0 Python/3.6.3 Windows/10', 'Date': 'Sat, 17 Feb 2018 01:15:36 GMT', 'Authorization': 'AWS AKIAJVPASWPJJKV4WYXQ:/9ZCF9KTZDsaPfqvmng0zsycr6w=', 'Content-Length': '105'}
+2018-02-16 20:15:38,090 - DEBUG - Response headers: [('x-amz-id-2', 'eStfHEM25OYakRiv4rAcUhikeUPeE/gKZb+2GogOHQFZqMC369An2DW1jxti7os2TeuGk1j0qOU='), ('x-amz-request-id', '3B1369D85EE24D90'), ('Date', 'Sat, 17 Feb 2018 01:15:39 GMT'), ('Location', 'http://akiajvpaswpjjkv4wyxq20180216201536985343.s3.amazonaws.com/'), ('Content-Length', '0'), ('Server', 'AmazonS3')]
+2018-02-16 20:15:38,238 - DEBUG - path=/Problem1
+2018-02-16 20:15:38,238 - DEBUG - auth_path=/akiajvpaswpjjkv4wyxq20180216201536985343/Problem1
+2018-02-16 20:15:38,240 - DEBUG - Method: PUT
+2018-02-16 20:15:38,241 - DEBUG - Path: /Problem1
+2018-02-16 20:15:38,241 - DEBUG - Data: 
+2018-02-16 20:15:38,242 - DEBUG - Headers: {'User-Agent': 'Boto/2.48.0 Python/3.6.3 Windows/10', 'Content-Type': 'application/x-zip-compressed', 'Content-MD5': '+9UyFXZpub67IizPJUSmGQ==', 'Content-Length': '57079', 'Expect': '100-Continue'}
+2018-02-16 20:15:38,243 - DEBUG - Host: akiajvpaswpjjkv4wyxq20180216201536985343.s3.amazonaws.com:443
+2018-02-16 20:15:38,243 - DEBUG - Port: 443
+2018-02-16 20:15:38,244 - DEBUG - Params: {}
+2018-02-16 20:15:38,244 - DEBUG - Token: None
+2018-02-16 20:15:38,245 - DEBUG - StringToSign:
+PUT
++9UyFXZpub67IizPJUSmGQ==
+application/x-zip-compressed
+Sat, 17 Feb 2018 01:15:38 GMT
+/akiajvpaswpjjkv4wyxq20180216201536985343/Problem1
+2018-02-16 20:15:38,246 - DEBUG - Signature:
+AWS AKIAJVPASWPJJKV4WYXQ:lZMasCduujJXuww7F0+Br1UZ7FI=
+2018-02-16 20:15:38,247 - DEBUG - Final headers: {'User-Agent': 'Boto/2.48.0 Python/3.6.3 Windows/10', 'Content-Type': 'application/x-zip-compressed', 'Content-MD5': '+9UyFXZpub67IizPJUSmGQ==', 'Content-Length': '57079', 'Expect': '100-Continue', 'Date': 'Sat, 17 Feb 2018 01:15:38 GMT', 'Authorization': 'AWS AKIAJVPASWPJJKV4WYXQ:lZMasCduujJXuww7F0+Br1UZ7FI='}
+2018-02-16 20:15:38,264 - DEBUG - Response headers: [('x-amz-bucket-region', 'us-west-2'), ('x-amz-request-id', 'CB822839D298EB28'), ('x-amz-id-2', 'rWnh/odabuCWo2HFDQSxRxhFUYBRDvpb4BbIg7ly3FV1N38KNpGhoYk1j3CBy+gaRRxO3ewc8Co='), ('Location', 'https://akiajvpaswpjjkv4wyxq20180216201536985343.s3-us-west-2.amazonaws.com/Problem1'), ('Content-Type', 'application/xml'), ('Transfer-Encoding', 'chunked'), ('Date', 'Sat, 17 Feb 2018 01:15:39 GMT'), ('Connection', 'close'), ('Server', 'AmazonS3')]
+2018-02-16 20:15:38,264 - DEBUG - Redirecting: https://akiajvpaswpjjkv4wyxq20180216201536985343.s3-us-west-2.amazonaws.com/Problem1
+2018-02-16 20:15:38,265 - DEBUG - establishing HTTPS connection: host=akiajvpaswpjjkv4wyxq20180216201536985343.s3-us-west-2.amazonaws.com, kwargs={'timeout': 70, 'port': 443}
+2018-02-16 20:15:38,271 - DEBUG - Token: None
+2018-02-16 20:15:38,271 - DEBUG - StringToSign:
+PUT
++9UyFXZpub67IizPJUSmGQ==
+application/x-zip-compressed
+Sat, 17 Feb 2018 01:15:38 GMT
+/akiajvpaswpjjkv4wyxq20180216201536985343/Problem1
+2018-02-16 20:15:38,272 - DEBUG - Signature:
+AWS AKIAJVPASWPJJKV4WYXQ:lZMasCduujJXuww7F0+Br1UZ7FI=
+2018-02-16 20:15:38,273 - DEBUG - Final headers: {'User-Agent': 'Boto/2.48.0 Python/3.6.3 Windows/10', 'Content-Type': 'application/x-zip-compressed', 'Content-MD5': '+9UyFXZpub67IizPJUSmGQ==', 'Content-Length': '57079', 'Expect': '100-Continue', 'Date': 'Sat, 17 Feb 2018 01:15:38 GMT', 'Authorization': 'AWS AKIAJVPASWPJJKV4WYXQ:lZMasCduujJXuww7F0+Br1UZ7FI='}
+2018-02-16 20:15:38,813 - DEBUG - Response headers: [('x-amz-id-2', 'faLqv45nb6fDUgpcKAb1+RNIbAapXLD1a4Lnpetqr5+5L1WcC23paYu83gn6yv0lSujg4hmzQnI='), ('x-amz-request-id', '2AA840C69CC8FA83'), ('Date', 'Sat, 17 Feb 2018 01:15:41 GMT'), ('ETag', '"fbd532157669b9bebb222ccf2544a619"'), ('Content-Length', '0'), ('Server', 'AmazonS3')]
